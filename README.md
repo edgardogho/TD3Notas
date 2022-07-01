@@ -11,3 +11,4 @@ En Uart Bloqueante enviamos datos de forma bloquante por la UART.
 
 En I2CDisplay utilizamos un display LCD 4x20 conectado por I2C utilizando el chip I2C-GPIO.
 
+En SPISD se accede a memorias SD utilizando el puerto SPI y el FATFS.
